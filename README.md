@@ -15,32 +15,8 @@ ATM Banking System
   - Transaction History — View recent transaction records
 
   Tech Stack
-
-  ┌───────────┬────────────┐
-  │   Layer   │ Technology │
-  ├───────────┼────────────┤
-  │ Language  │ Java 8     │
-  ├───────────┼────────────┤
-  │ GUI       │ Swing      │
-  ├───────────┼────────────┤
-  │ Database  │ MySQL 8.0  │
-  ├───────────┼────────────┤
-  │ DB Access │ JDBC       │
-  ├───────────┼────────────┤
-  │ Build     │ Maven      │
-  └───────────┴────────────┘
-
-  Project Structure
-
-  src/project/
-  ├── Login.java            # Login window
-  ├── AtmFrame.java         # Main dashboard
-  ├── Atm.java              # CLI entry & shared state
-  ├── User.java             # User entity
-  ├── Transaction.java      # Transaction entity
-  ├── dao/UserDao.java      # Database operations
-  └── util/DBUtil.java      # JDBC connection utility
-
+  Tech Stack: This project uses Java 8 as the development language, adopts Swing to build graphical user interfaces, stores business data with MySQL 8.0, implements database access via JDBC, and leverages Maven for project building and dependency management.
+  
   Quick Start
 
   1. Setup Database
