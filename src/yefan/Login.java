@@ -66,7 +66,7 @@ public class Login extends JFrame {
         mainPanel.add(formPanel, BorderLayout.CENTER);
 
         this.add(mainPanel);
-        this.setTitle("ATM 佩奇银行 - 登录");
+        this.setTitle("ATM XXBank - 登录");
         this.setSize(450, 480);
         this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(JDialog.DISPOSE_ON_CLOSE);
