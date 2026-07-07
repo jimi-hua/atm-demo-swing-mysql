@@ -48,7 +48,7 @@ public class AtmFrame extends JFrame {
         // 中间面板
         JPanel centerPanel = new JPanel();
         JLabel l1 = new JLabel(currentUser.getName() + " 欢迎您");
-        JLabel l2 = new JLabel("佩奇银行");
+        JLabel l2 = new JLabel("XXBank");
         JLabel l3 = new JLabel("请选择服务");
         centerPanel.add(l1);
         centerPanel.add(l2);
