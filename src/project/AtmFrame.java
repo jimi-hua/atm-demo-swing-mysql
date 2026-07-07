@@ -1,7 +1,7 @@
-package yefan;
+package project;
 
-import yefan.Transaction;
-import yefan.dao.UserDao;
+import project.Transaction;
+import project.dao.UserDao;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

@@ -1,4 +1,4 @@
-package yefan;
+package project;
 
 public class User {
     private int id;

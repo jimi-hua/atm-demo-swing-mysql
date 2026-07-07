@@ -1,4 +1,4 @@
-package yefan.util;
+package project.util;
 
 import java.io.InputStream;
 import java.sql.*;

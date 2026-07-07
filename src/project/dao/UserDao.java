@@ -1,8 +1,8 @@
-package yefan.dao;
+package project.dao;
 
-import yefan.Transaction;
-import yefan.User;
-import yefan.util.DBUtil;
+import project.Transaction;
+import project.User;
+import project.util.DBUtil;
 
 import java.sql.*;
 import java.util.ArrayList;

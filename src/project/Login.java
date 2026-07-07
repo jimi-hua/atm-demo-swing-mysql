@@ -1,6 +1,6 @@
-package yefan;
+package project;
 
-import yefan.dao.UserDao;
+import project.dao.UserDao;
 
 import javax.swing.*;
 import java.awt.*;
